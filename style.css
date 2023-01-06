@@ -1,0 +1,185 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-image: url(images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 808px;
+}
+
+.container {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 36px;
+    text-align: right;
+    color: #ffffff;
+}
+
+.container h1 {
+    padding-top: 50px;
+    padding-right: 50px;
+    margin-bottom: 80px;
+}
+
+.container p {
+    margin-bottom: 100px;
+    margin-right: 50px;
+}
+
+.pri-btn {
+    height: 65px;
+    width: 160px;
+    color: rgb(31, 121, 238);
+    border-radius: 5px;
+    margin-right: 50px;
+
+}
+
+.bnr {
+    display: flex;
+    position: absolute;
+    width: 1008px;
+    height: 723.3px;
+    left: 230px;
+    top: 939px;
+}
+
+.bnr-bg {
+    justify-content: space-between;
+    position: absolute;
+    width: 449px;
+    height: 444px;
+    left: 789px;
+    top: 134px;
+}
+
+.bnr-bg h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    padding: 10px;
+}
+
+.bnr-bg p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    padding-top: 10px;
+}
+
+.bnr-bg ul {
+    padding-top: 10px;
+}
+
+.bnr-bg ul li {
+    padding: 5px;
+    list-style-type: "\1F44D";
+}
+
+.mdl {
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    width: 1141px;
+    height: 216.96px;
+    left: 400px;
+    top: 1875px;
+}
+
+.mdl .crd h4 {
+    color: #737272;
+    padding-top: 10px;
+}
+
+.h2 {
+    position: absolute;
+    left: 800px;
+    top: 1780px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+}
+
+.lg {
+    background-image: linear-gradient(to right, #005FAC 0%, rgba(0, 95, 172, 0)), url(images/watch.png);
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 300px;
+    top: 2221px;
+    border-radius: 8px;
+
+}
+
+.tl {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    width: 200px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.tl2 {
+    margin-top: 40px;
+}
+
+.ftr-bg {
+    position: absolute;
+    width: 1785px;
+    height: 400px;
+    left: 0px;
+    top: 2651.96px;
+    background: #151414;
+    padding-left: 70px;
+    padding-top: 50px;
+}
+
+.ftr-bg .ftr-dis {
+    color: #ffffff;
+    width: 500px;
+}
+
+.ftr-dis h2 {
+    padding: 10px;
+    font-size: 45px;
+}
+
+.ftr-dis {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.ftr-dis h3 {
+    padding: 10px;
+    font-size: 25px;
+}
+
+.finish {
+    position: absolute;
+    width: 325px;
+    height: 204px;
+    left: 1046px;
+    top: 2781.96px;
+}
+.finish h2{
+    font-size: 35px;
+    color: #FFFFFF;
+}
+.finish .email{
+    height: 25px;
+    width: 200px;
+}
+.finish .smt{
+    height: 30px;
+    width: 60px;
+    color: #FFFFFF;
+    background: #005FAC;
+    border-radius: 5px;
+}
